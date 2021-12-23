@@ -3,6 +3,11 @@ I did a simple Student Management System web application using Spring Boot, Spri
 
 ![Spring Boot MVC ProjectJPG](https://user-images.githubusercontent.com/49694359/147259197-fd0e24fb-016c-4f53-b489-4ce1cb5b4b5b.JPG)
 
+![ListStudents](https://user-images.githubusercontent.com/49694359/147261380-19c9159e-c759-4c36-a3d7-720d65636bc7.JPG)
+
+![CreateNewStudent](https://user-images.githubusercontent.com/49694359/147261412-f519bae2-58b2-4eb5-a656-11bbfc01295b.JPG)
+
+![updateStudent](https://user-images.githubusercontent.com/49694359/147261420-9db62da4-99a8-40e9-8ab4-0bfa47a56945.JPG)
 
 Tools and technologies used:
  * Java 11
